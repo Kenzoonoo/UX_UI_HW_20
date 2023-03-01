@@ -1,0 +1,125 @@
+.jumbotron {
+    background-image: url(../IMAGES/Group\ 1.jpg);
+    background-size: cover;
+    height: 60vh;
+}
+
+.display-4 {
+    color: white;
+    margin-left:auto;
+}
+
+.lead {
+   color: white;
+   line-height: 30px;
+   margin-top: 50px;
+   margin-left: auto;
+
+}
+
+.h1_1{
+    padding-top: 3%;
+    text-align: center;
+    color: #157EBF;
+
+}
+
+.bd-example {
+    height: 60vh;
+}
+
+h5{
+    color: black;
+}
+
+p{
+    color: black;
+   
+}
+
+ 
+.carousel .carousel-item {
+    height: 900px;
+    align-content: center;
+    max-width: 100%;
+    
+    
+  }
+
+  .carousel-caption {
+   padding: 10px;
+  }
+  
+  .carousel-inner img {       
+    width: 100%;
+    height: 80%;
+    border-color: blue;
+    
+ }
+ 
+ .center   {
+    padding-left: 17%;
+    padding-right:17%;
+    margin-bottom: 40vh;
+    position: relative;
+    
+ }
+
+ .problem {
+    text-align: center;
+    background-color: #157EBF;
+    padding-left: 17%;
+    padding-right:17%;
+    padding-top: 3%;
+    position:relative;
+    padding-bottom: 3%;
+    
+   
+ }
+
+ .h1_2 {
+    color: white;
+    text-decoration: underline;
+ }
+
+ .h2_1 {
+    color: white;
+ }
+
+ .problem_2 {
+    text-align: center;
+    background-color: #157EBF;
+    padding-left: 17%;
+    padding-right:17%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    position: absolute;
+    
+ }
+
+ .img_1{
+    width: 80%;
+    padding-bottom: 3%;
+ }
+
+ #here1 {
+   font-variant: normal;
+ }
+
+ #here2 {
+   font-variant: normal;
+ }
+
+ #here3 {
+   font-variant: normal;
+ }
+
+ #here4 {
+   font-variant: normal;
+ }
+
+ html {
+   scroll-behavior: smooth;
+   
+ }
+
